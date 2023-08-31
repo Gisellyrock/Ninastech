@@ -4,7 +4,6 @@
 
 </p>
 
-<h1 align="center"> NinasTech </h1>
 
 # Social Link
 - Neste projeto usamos HTML, CSS e JavaScript, sendo que este último dá o efeito dos passáros.
